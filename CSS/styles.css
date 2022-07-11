@@ -1,0 +1,10 @@
+body {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-banner {
+    background-image: url(images/banner.jpeg);
+}
