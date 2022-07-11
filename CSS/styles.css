@@ -5,6 +5,50 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+body,
+html {
+    margin: 0;
+    position: relative;
+    bottom: 16px;
+}
+
 .top-banner {
-    background-image: url(images/banner.jpeg);
+    background-image: url(../images/banner.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 675px;
+}
+
+.headline {
+    color: white;
+    text-shadow: 3px 3px black;
+    font-size: 25px;
+    position: relative;
+    left: 20px;
+    top: 170px;
+}
+
+.description {
+    color: white;
+    position: relative;
+    left: 20px;
+    top: 170px;
+}
+
+header a {
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 4px;
+    position: relative;
+    top: 15px;
+
+
+}
+
+a:hover {
+    color: black;
+    background-image: linear-gradient(red, orange);
+
 }
