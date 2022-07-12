@@ -149,3 +149,24 @@ a:hover {
     left: 600px;
     bottom: 6px;
 }
+
+.section-four {
+    position: relative;
+    top: 1000px;
+}
+
+.section-four h1 {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 40px;
+    text-shadow: 2px 2px 2px black;
+}
+
+.section-four hr {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.section-four-paragraph {
+    text-align: center;
+}
