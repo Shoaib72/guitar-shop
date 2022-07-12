@@ -236,3 +236,24 @@ a:hover {
     left: 390px;
     bottom: 230px;
 }
+
+.section-seven-container {
+    position: relative;
+    top: 700px;
+    left: 18px;
+    margin: 10% 10%;
+}
+
+.section-seven-child img {
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding: 10px;
+    margin: 70px;
+    border: 2px solid red;
+}
+
+.section-seven-child img:hover {
+    background-color: aqua;
+
+}
