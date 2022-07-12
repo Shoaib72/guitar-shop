@@ -52,3 +52,53 @@ a:hover {
     background-image: linear-gradient(red, orange);
 
 }
+
+.section-two {
+    display: flex;
+    position: absolute;
+    top: 750px;
+    padding: 10px 10px;
+    margin-left: 115px;
+
+    width: 100%;
+    align-items: center;
+
+
+
+}
+
+.section-two h1 {
+    color: antiquewhite;
+    font-size: 40px;
+    text-shadow: 4px 4px 4px black;
+
+}
+
+.section-two video {
+    height: 320px;
+    width: 550px;
+    position: absolute;
+    top: 68px;
+    left: 550px;
+
+}
+
+.section-two a {
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 4px;
+    position: relative;
+    top: 15px;
+}
+
+.section-two-first-child {
+    position: relative;
+    top: 45px;
+}
+
+.section-two a:hover {
+    color: black;
+    background-image: linear-gradient(red, orange);
+}
