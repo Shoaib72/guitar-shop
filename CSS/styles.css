@@ -102,3 +102,50 @@ a:hover {
     color: black;
     background-image: linear-gradient(red, orange);
 }
+
+.section-three {
+    display: flex;
+    position: absolute;
+    top: 1250px;
+    padding: 10px 10px;
+    margin-left: 115px;
+
+    width: 100%;
+    align-items: center;
+}
+
+.section-three video {
+    height: 320px;
+    width: 550px;
+    position: absolute;
+    top: 20px;
+    right: 820px;
+}
+
+.section-three h1 {
+    color: antiquewhite;
+    font-size: 40px;
+    text-shadow: 4px 4px 4px black;
+}
+
+.section-three a {
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 4px;
+    position: relative;
+    top: 15px;
+
+}
+
+.section-three a:hover {
+    color: black;
+    background-image: linear-gradient(red, orange);
+}
+
+.section-three-second-child {
+    position: relative;
+    left: 600px;
+    bottom: 5px;
+}
