@@ -170,3 +170,69 @@ a:hover {
 .section-four-paragraph {
     text-align: center;
 }
+
+.section-five-container {
+    position: relative;
+    top: 950px;
+    display: flex;
+    margin: 10% 10%;
+
+}
+
+.section-five-child {
+    width: 50%;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid red;
+    background-color: wheat;
+}
+
+#image-one {
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 390px;
+    bottom: 250px;
+}
+
+#image-two {
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 390px;
+    bottom: 190px;
+}
+
+.section-six-container {
+    position: relative;
+    top: 820px;
+    display: flex;
+    margin: 10% 10%;
+
+}
+
+.section-six-child {
+    width: 50%;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid red;
+    background-color: wheat;
+}
+
+#image-three {
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 390px;
+    bottom: 250px;
+}
+
+#image-four {
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 390px;
+    bottom: 230px;
+}
