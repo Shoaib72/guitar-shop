@@ -291,3 +291,23 @@ a:hover {
     position: relative;
     left: 180px;
 }
+
+.section-ten-container {
+    width: 100%;
+    position: relative;
+    top: 630px;
+    right: 80px;
+
+
+    margin: 10% 10%;
+
+}
+
+.section-ten-child img {
+    height: 300px;
+    width: 400px;
+    float: left;
+    padding: 10px;
+
+
+}
