@@ -311,3 +311,80 @@ a:hover {
 
 
 }
+
+.section-eleven img {
+    width: 1240px;
+    position: relative;
+    top: 650px;
+    left: 65px;
+}
+
+.class-twelve-child {
+    position: relative;
+    top: 670px;
+    left: 510px;
+    color: antiquewhite;
+    font-size: 35px;
+    text-shadow: 4px 4px 4px black;
+}
+
+.section-thirteen-container {
+    position: relative;
+    width: 100%;
+    top: 650px;
+    right: 12px;
+    margin: 5% 5%;
+}
+
+.section-thirteen-child img {
+    height: 300px;
+    width: 400px;
+    float: left;
+    padding: 10px 10px;
+
+    border: 0px solid red;
+}
+
+.section-fourteen-container {
+    position: relative;
+    width: 100%;
+    top: 650px;
+    right: 12px;
+    margin: 5% 5%;
+}
+
+.section-fourteen-child img {
+    height: 300px;
+    width: 400px;
+    float: left;
+    padding: 10px 10px;
+
+    border: 0px solid red;
+}
+
+.section-fifteen-container {
+    position: relative;
+    width: 100%;
+    top: 650px;
+    right: 12px;
+    margin: 5% 5%;
+}
+
+.section-fifteen-child img {
+    height: 300px;
+    width: 400px;
+    float: left;
+    padding: 10px 10px;
+
+    border: 0px solid red;
+}
+
+.section-sixteen h1 {
+    text-align: center;
+    position: relative;
+    top: 680px;
+    left: 45px;
+    color: antiquewhite;
+    font-size: 35px;
+    text-shadow: 4px 4px 4px black;
+}
