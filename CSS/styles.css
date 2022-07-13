@@ -392,15 +392,16 @@ a:hover {
 .section-seventeen-container {
     position: relative;
     width: 100%;
-    top: 650px;
+    top: 670px;
     right: 12px;
     margin: 5% 5%;
     display: flex;
 
+
 }
 
 .section-seventeen-child img {
-    height: 300px;
+    height: 320px;
     width: 400px;
     margin: 5px 5px;
 
@@ -422,10 +423,40 @@ a:hover {
     padding: 10px 40px;
     border-radius: 4px;
     position: relative;
-    top: 15px;
+    bottom: 5px;
 }
 
 .section-seventeen-child a:hover {
     color: black;
     background-image: linear-gradient(red, orange);
+}
+
+.footer-border {
+    height: 200px;
+    width: 100%;
+    background-color: antiquewhite;
+
+}
+
+footer {
+    position: relative;
+    top: 700px;
+    margin: 0;
+}
+
+
+
+.last-container img {
+    position: relative;
+    left: 45.5%;
+    top: 180px;
+    height: 130px;
+    width: 170px;
+}
+
+.footer-border p {
+    text-align: center;
+    position: relative;
+    top: 180px;
+    left: 24px;
 }
