@@ -253,7 +253,41 @@ a:hover {
     border: 2px solid red;
 }
 
-.section-seven-child img:hover {
-    background-color: aqua;
 
+.section-eight-gif {
+    position: relative;
+    top: 670px;
+    left: 410px;
+}
+
+.section-eight-container {
+    display: block;
+}
+
+.section-eight-audio {
+    top: 1200px;
+}
+
+.class-eight-audio {
+    position: relative;
+    top: 700px;
+    left: 550px;
+}
+
+.section-nine-container {
+    position: relative;
+    top: 700px;
+    left: 450px;
+}
+
+.section-nine-text {
+    color: antiquewhite;
+    font-size: 35px;
+    text-shadow: 4px 4px 4px black;
+
+}
+
+.section-nine-paragraph {
+    position: relative;
+    left: 180px;
 }
